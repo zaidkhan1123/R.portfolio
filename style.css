@@ -69,6 +69,12 @@
 }
 
 
+@media (max-width:765px){
+    .five-text{
+        text-align: center;
+    }
+}
+
 
 
 /* media quaery */
