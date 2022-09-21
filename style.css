@@ -10,7 +10,10 @@
 
  body{
     font-family:'Poppins', sans-serif; 
+   overflow-x: hidden;
  }
+
+
 .title-container-fluid {
     height: auto;
 }
